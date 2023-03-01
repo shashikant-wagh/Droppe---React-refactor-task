@@ -1,0 +1,44 @@
+.logo {
+  background: #ffffff;
+}
+
+.logoImageWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+}
+
+.logoImage {
+  height: 60px;
+}
+
+.headerImageWrapper {
+  margin: 50px inherit;
+  display: flex;
+  padding-top: 0;
+  justify-content: space-evenly;
+}
+
+.img {
+  max-height: 15em;
+  display: block;
+}
+
+.main {
+  padding: 32px 0;
+}
+
+.buttonWrapper {
+  margin-bottom: 24px;
+}
+
+.messageContainer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.statsContainer {
+  margin-bottom: 24px;
+}
